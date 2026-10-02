@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bestnoob231
+- 👋 Hi, I’m @tuz256
 - 👀 I’m interested Embedded Systems
 - 📫 You can reach me from keremandac240@gmail.com
